@@ -1,3 +1,7 @@
+## Video de Demostración del uso de Docker
+
+👉 [Ver video: Comandos básicos de Docker](https://drive.google.com/file/d/1fQJyhaPNV-MQb3bIP7Ai9H1zmVO30zuh/view?usp=sharing)
+
 # Docker y Kubernetes
 
 Este repositorio contiene material de aprendizaje sobre contenedores y orquestación con Docker y Kubernetes. Incluye un informe, diapositivas y un cuestionario diseñado para reforzar los conocimientos adquiridos.
